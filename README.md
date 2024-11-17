@@ -31,6 +31,7 @@ Leetcode Practice
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gopal-panigrahi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +47,9 @@ Leetcode Practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
