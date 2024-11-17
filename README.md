@@ -24,6 +24,7 @@ Leetcode Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopal-panigrahi/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gopal-panigrahi/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -31,6 +32,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopal-panigrahi/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
