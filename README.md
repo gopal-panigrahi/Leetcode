@@ -81,5 +81,6 @@ Leetcode Practice
 | [0181-employees-earning-more-than-their-managers](https://github.com/gopal-panigrahi/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/gopal-panigrahi/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/gopal-panigrahi/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/gopal-panigrahi/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/gopal-panigrahi/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
