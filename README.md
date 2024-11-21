@@ -74,4 +74,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gopal-panigrahi/Leetcode/tree/master/0036-valid-sudoku) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/gopal-panigrahi/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
