@@ -1,8 +1,7 @@
 /* Write your T-SQL query statement below */
 
-with t as (
-    select outer_e.id, outer_e.name, outer_e.salary, outer_e.departmentId
-    from Employee outer_e 
-    where outer_e.salary in (select distinct top 3 salary from Employee inner_e where outer_e.departmentId = inner_e.departmentId order by salary desc)
-) select d.name as Department, t.name as Employee, t.salary as Salary from t inner join Department d on t.departmentId = d.id;
+with result as (
+    select e.*, dense_rank() over(partition by departmentId order by salary desc) as rnk from Employee e
+) 
+select d.name as Department, r.name as Employee, r.salary as Salary from result r inner join Department d on r.departmentId = d.id where r.rnk <= 3;
 
