@@ -23,6 +23,7 @@ Leetcode Practice
 | [0036-valid-sudoku](https://github.com/gopal-panigrahi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/gopal-panigrahi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Leetcode Practice
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +90,8 @@ Leetcode Practice
 | [0197-rising-temperature](https://github.com/gopal-panigrahi/Leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/gopal-panigrahi/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/gopal-panigrahi/Leetcode/tree/master/0620-not-boring-movies) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
