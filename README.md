@@ -94,4 +94,5 @@ Leetcode Practice
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/gopal-panigrahi/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
