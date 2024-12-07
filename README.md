@@ -120,4 +120,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
