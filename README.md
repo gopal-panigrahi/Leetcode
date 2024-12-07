@@ -56,6 +56,7 @@ Leetcode Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopal-panigrahi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
+| [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +97,8 @@ Leetcode Practice
 | ------- |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/gopal-panigrahi/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
