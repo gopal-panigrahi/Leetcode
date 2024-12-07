@@ -62,6 +62,7 @@ Leetcode Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -128,4 +129,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
