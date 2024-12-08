@@ -26,6 +26,7 @@ Leetcode Practice
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
+| [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/gopal-panigrahi/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -145,4 +147,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/gopal-panigrahi/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
