@@ -26,6 +26,7 @@ Leetcode Practice
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ Leetcode Practice
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Leetcode Practice
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Stack
 |  |
