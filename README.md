@@ -28,6 +28,7 @@ Leetcode Practice
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Leetcode Practice
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Stack
 |  |
