@@ -49,6 +49,7 @@ Leetcode Practice
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
@@ -71,6 +72,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Leetcode Practice
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 | [0969-number-of-recent-calls](https://github.com/gopal-panigrahi/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
@@ -161,5 +164,10 @@ Leetcode Practice
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
