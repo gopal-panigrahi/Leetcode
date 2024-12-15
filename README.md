@@ -54,10 +54,12 @@ Leetcode Practice
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Leetcode Practice
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -173,4 +177,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
+## Greedy
+|  |
+| ------- |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
