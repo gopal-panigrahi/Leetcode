@@ -6,20 +6,25 @@ public class Solution
 
         int[] answers = new int[queries.Length];
 
-        for (int i = 0; i < queries.Length; i++)
-        {
-            int len = 0, sum = 0;
-            for (int j = 0; j < nums.Length; j++)
-            {
-                sum += nums[j];
-                if (sum > queries[i])
-                {
-                    break;
-                }
-                len++;
-            }
+        int[] prefix_sum = new int[nums.Length + 1];
+        prefix_sum[0] = 0;
 
-            answers[i] = len;
+        for (int i = 0; i < nums.Length; i++)
+        {
+            prefix_sum[i + 1] = prefix_sum[i] + nums[i];
+        }
+
+        for (var i = 0; i < queries.Length; i++)
+        {
+            var result = Array.BinarySearch(prefix_sum, queries[i]);
+            if (result < 0)
+            {
+                answers[i] = ~result - 1;
+            }
+            else
+            {
+                answers[i] = result;
+            }
         }
 
         return answers;
