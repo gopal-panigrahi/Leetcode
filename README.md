@@ -39,6 +39,7 @@ Leetcode Practice
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gopal-panigrahi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ Leetcode Practice
 | [0036-valid-sudoku](https://github.com/gopal-panigrahi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
@@ -141,6 +143,7 @@ Leetcode Practice
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
 ## Geometry
 |  |
