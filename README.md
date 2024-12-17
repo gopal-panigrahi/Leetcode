@@ -145,6 +145,7 @@ Leetcode Practice
 | ------- |
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Geometry
 |  |
 | ------- |
@@ -184,4 +185,9 @@ Leetcode Practice
 |  |
 | ------- |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Enumeration
+|  |
+| ------- |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
