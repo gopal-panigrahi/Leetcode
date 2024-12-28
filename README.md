@@ -162,6 +162,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/gopal-panigrahi/Leetcode/tree/master/0461-hamming-distance) |
 ## Design
 |  |
 | ------- |
