@@ -10,16 +10,13 @@ public class Solution
 
     public double MaxAverageRatio(int[][] classes, int extraStudents)
     {
-        var items = new List<(int[], double)>();
-
-
+        var pq = new PriorityQueue<int[], double>();
         foreach (int[] single_class in classes)
         {
             double gain = FindGain(single_class);
-            items.Add((single_class, -gain));
+            pq.Enqueue(single_class, -gain);
         }
 
-        var pq = new PriorityQueue<int[], double>(items);
 
         while (extraStudents > 0)
         {
@@ -35,11 +32,12 @@ public class Solution
         }
 
         double result = 0;
-        while (pq.Count > 0)
+
+        foreach (var x in pq.UnorderedItems)
         {
-            int[] single_class = pq.Dequeue();
-            result += (double)single_class[0] / (double)single_class[1];
+            result += (double)x.Element[0] / (double)x.Element[1];
         }
+
         return result / classes.Length;
     }
 }
