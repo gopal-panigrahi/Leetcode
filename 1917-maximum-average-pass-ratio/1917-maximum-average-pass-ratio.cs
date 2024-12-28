@@ -10,13 +10,16 @@ public class Solution
 
     public double MaxAverageRatio(int[][] classes, int extraStudents)
     {
-        var pq = new PriorityQueue<int[], double>();
+        var items = new List<(int[], double)>();
+
 
         foreach (int[] single_class in classes)
         {
             double gain = FindGain(single_class);
-            pq.Enqueue(single_class, -gain);
+            items.Add((single_class, -gain));
         }
+
+        var pq = new PriorityQueue<int[], double>(items);
 
         while (extraStudents > 0)
         {
