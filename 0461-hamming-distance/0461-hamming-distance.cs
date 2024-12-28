@@ -3,15 +3,8 @@ public class Solution
     public int HammingDistance(int x, int y)
     {
         int count = 0;
-        while (x > 0 || y > 0)
-        {
-            if (((x & 1) ^ (y & 1)) == 1)
-            {
-                count++;
-            }
-            x >>= 1;
-            y >>= 1;
-        }
+        int result = x ^ y;
+        while (result > 0) { count += (result & 1); result >>= 1; }
         return count;
     }
 }
