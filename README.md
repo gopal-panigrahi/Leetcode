@@ -165,6 +165,7 @@ Leetcode Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/gopal-panigrahi/Leetcode/tree/master/0461-hamming-distance) |
 ## Design
@@ -213,4 +214,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gopal-panigrahi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
