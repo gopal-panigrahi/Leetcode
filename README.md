@@ -55,6 +55,7 @@ Leetcode Practice
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
+| [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/gopal-panigrahi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -100,6 +101,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gopal-panigrahi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Database
 |  |
@@ -145,6 +147,7 @@ Leetcode Practice
 | [0144-binary-tree-preorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gopal-panigrahi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,4 +221,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/gopal-panigrahi/Leetcode/tree/master/0190-reverse-bits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 <!---LeetCode Topics End-->
