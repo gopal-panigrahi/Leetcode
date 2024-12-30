@@ -63,6 +63,7 @@ Leetcode Practice
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search Tree
 |  |
 | ------- |
