@@ -54,6 +54,7 @@ Leetcode Practice
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -68,6 +69,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## String
 |  |
@@ -75,6 +77,7 @@ Leetcode Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopal-panigrahi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
+| [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
@@ -160,6 +163,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
+| [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Geometry
