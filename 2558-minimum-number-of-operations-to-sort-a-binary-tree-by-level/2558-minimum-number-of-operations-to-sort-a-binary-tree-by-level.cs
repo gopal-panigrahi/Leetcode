@@ -37,37 +37,33 @@ public class Solution
     {
         var q = new Queue<TreeNode>();
         q.Enqueue(root);
-        int countOfNodesAtCurrLevel = 1;
 
-        int diff = 0;
+        int minOps = 0;
 
         while (q.Count > 0)
         {
-            var nodesAtCurrLevel = new List<(int, int)>();
+            var nodes = new List<(int, int)>();
 
-            int countOfNodesAtNextLevel = 0;
-            for (int i = 0; i < countOfNodesAtCurrLevel; i++)
+            int sizeOfCurrLevel = q.Count;
+            for (int i = 0; i < sizeOfCurrLevel; i++)
             {
                 var node = q.Dequeue();
-                nodesAtCurrLevel.Add((node.val, i));
+                nodes.Add((node.val, i));
 
                 if (node.left is not null)
                 {
                     q.Enqueue(node.left);
-                    countOfNodesAtNextLevel++;
                 }
 
                 if (node.right is not null)
                 {
                     q.Enqueue(node.right);
-                    countOfNodesAtNextLevel++;
                 }
             }
-            countOfNodesAtCurrLevel = countOfNodesAtNextLevel;
 
-            diff += MinimumSwapsForSort(nodesAtCurrLevel);
+            minOps += MinimumSwapsForSort(nodes);
         }
 
-        return diff;
+        return minOps;
     }
 }
