@@ -25,11 +25,7 @@ public class Solution
             if (pos != i)
             {
                 swaps++;
-
-                var temp = arr[pos];
-                arr[pos] = arr[i];
-                arr[i] = temp;
-
+                (arr[pos], arr[i]) = (arr[i], arr[pos]);
                 i--;
             }
         }
