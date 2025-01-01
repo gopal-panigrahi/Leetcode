@@ -2,17 +2,13 @@ public class Solution
 {
     public int MinimumMoves(string s)
     {
-        int start = 0, moves = 0;
-        while (start < s.Length)
+        int idx = 0, moves = 0;
+        while (idx < s.Length)
         {
-            if (s[start] == 'X')
+            if (s[idx++] == 'X')
             {
-                start += 3;
+                idx += 2;
                 moves++;
-            }
-            else
-            {
-                start++;
             }
         }
         return moves;
