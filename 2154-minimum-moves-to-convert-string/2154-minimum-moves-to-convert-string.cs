@@ -2,10 +2,10 @@ public class Solution
 {
     public int MinimumMoves(string s)
     {
-        int idx = 0, moves = 0;
-        while (idx < s.Length)
+        int moves = 0;
+        for (int idx = 0; idx < s.Length; idx++)
         {
-            if (s[idx++] == 'X')
+            if (s[idx] == 'X')
             {
                 idx += 2;
                 moves++;
