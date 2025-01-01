@@ -78,6 +78,7 @@ Leetcode Practice
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
+| [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
@@ -210,6 +211,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/gopal-panigrahi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Enumeration
