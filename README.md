@@ -144,6 +144,7 @@ Leetcode Practice
 | [0144-binary-tree-preorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gopal-panigrahi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gopal-panigrahi/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Leetcode Practice
 | [0144-binary-tree-preorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gopal-panigrahi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gopal-panigrahi/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Math
 |  |
 | ------- |
@@ -231,4 +233,5 @@ Leetcode Practice
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gopal-panigrahi/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
