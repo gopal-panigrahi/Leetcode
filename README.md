@@ -81,6 +81,7 @@ Leetcode Practice
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gopal-panigrahi/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
