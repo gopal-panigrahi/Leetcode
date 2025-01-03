@@ -172,6 +172,7 @@ Leetcode Practice
 | ------- |
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0670-maximum-swap) |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Geometry
@@ -215,6 +216,7 @@ Leetcode Practice
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0670-maximum-swap) |
 | [1917-maximum-average-pass-ratio](https://github.com/gopal-panigrahi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
