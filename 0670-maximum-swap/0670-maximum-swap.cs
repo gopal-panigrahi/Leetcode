@@ -12,59 +12,66 @@ public class Solution
         return l;
     }
 
-    public PriorityQueue<(int, int), (int, int)> GenerateMaximalQueue(List<int> digits)
+    public Stack<(int, int)> GenerateMonotonicStack(List<int> digits)
     {
-        var pq = new PriorityQueue<(int, int), (int, int)>();
+        var stk = new Stack<(int, int)>();
 
         for (int i = digits.Count - 1; i >= 0; i--)
         {
-            if (pq.Count == 0)
+            if (stk.Count == 0)
             {
-                pq.Enqueue((digits[i], i), (-digits[i], -i));
+                stk.Push((digits[i], i));
             }
             else
             {
-                var (e, _) = pq.Peek();
+                var (e, _) = stk.Peek();
                 if (digits[i] >= e)
                 {
-                    pq.Enqueue((digits[i], i), (-digits[i], -i));
+                    stk.Push((digits[i], i));
                 }
             }
         }
-        return pq;
+        return stk;
     }
 
-    public int MaximumSwap(int num)
+    public List<int> SwapToMakeItMaximum(Stack<(int, int)> stk, List<int> digits)
     {
-        var digits = SplitIntoDigits(num);
-        var pq = GenerateMaximalQueue(digits);
-
         for (int i = 0; i < digits.Count; i++)
         {
-            if (pq.Count > 0)
+            if (stk.Count > 0)
             {
-                var (e, p) = pq.Peek();
+                var (e, p) = stk.Peek();
                 if (digits[i] == e)
                 {
-                    var temp = new List<((int, int), (int, int))>();
-
-                    foreach (var item in pq.UnorderedItems)
-                    {
-                        var ((_, r), _) = item;
-                        if (r != i)
-                        {
-                            temp.Add(item);
-                        }
-                    }
-                    pq = new PriorityQueue<(int, int), (int, int)>(temp);
+                    stk.Pop();
                 }
                 else if (digits[i] < e)
                 {
+                    stk.Pop();
+                    while (stk.Count > 0)
+                    {
+                        var (te, tp) = stk.Peek();
+                        if (te != e)
+                        {
+                            break;
+                        }
+                        p = tp;
+                        stk.Pop();
+                    }
+
                     (digits[i], digits[p]) = (digits[p], digits[i]);
                     break;
                 }
             }
         }
+        return digits;
+    }
+
+    public int MaximumSwap(int num)
+    {
+        var digits = SplitIntoDigits(num);
+        var pq = GenerateMonotonicStack(digits);
+        digits = SwapToMakeItMaximum(pq, digits);
 
         return Convert.ToInt32(string.Join(string.Empty, digits));
     }
