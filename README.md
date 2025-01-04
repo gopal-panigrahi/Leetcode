@@ -25,6 +25,7 @@ Leetcode Practice
 | [0141-linked-list-cycle](https://github.com/gopal-panigrahi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0807-custom-sort-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0807-custom-sort-string) |
 | [1039-find-the-town-judge](https://github.com/gopal-panigrahi/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/gopal-panigrahi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/gopal-panigrahi/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -72,6 +73,7 @@ Leetcode Practice
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0807-custom-sort-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0807-custom-sort-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## String
 |  |
@@ -80,6 +82,7 @@ Leetcode Practice
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0807-custom-sort-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0807-custom-sort-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2391-strong-password-checker-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gopal-panigrahi/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
