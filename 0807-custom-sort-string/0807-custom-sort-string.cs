@@ -8,12 +8,12 @@ public class Solution
         {
             bucket[s[i] % 97]++;
         }
-        string result = "";
+        var result = new StringBuilder();
         for (int i = 0; i < order.Length; i++)
         {
             for (int j = 0; j < bucket[order[i] % 97]; j++)
             {
-                result += order[i];
+                result.Append(order[i]);
             }
             bucket[order[i] % 97] = 0;
         }
@@ -22,9 +22,9 @@ public class Solution
         {
             for (int j = 0; j < bucket[i]; j++)
             {
-                result += (char)(i + 97);
+                result.Append((char)(i + 97));
             }
         }
-        return result;
+        return result.ToString();
     }
 }
