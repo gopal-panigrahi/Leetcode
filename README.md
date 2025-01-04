@@ -83,6 +83,7 @@ Leetcode Practice
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0807-custom-sort-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/gopal-panigrahi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2391-strong-password-checker-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gopal-panigrahi/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -232,6 +233,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/gopal-panigrahi/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/gopal-panigrahi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search Tree
