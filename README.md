@@ -44,6 +44,7 @@ Leetcode Practice
 | [0141-linked-list-cycle](https://github.com/gopal-panigrahi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gopal-panigrahi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gopal-panigrahi/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ Leetcode Practice
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/gopal-panigrahi/Leetcode/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/0729-my-calendar-i) |
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
