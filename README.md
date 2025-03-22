@@ -83,6 +83,7 @@ Leetcode Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopal-panigrahi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/gopal-panigrahi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/gopal-panigrahi/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/gopal-panigrahi/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0807-custom-sort-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gopal-panigrahi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -177,6 +178,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/gopal-panigrahi/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0670-maximum-swap) |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
@@ -234,6 +236,7 @@ Leetcode Practice
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/gopal-panigrahi/Leetcode/tree/master/0415-add-strings) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/gopal-panigrahi/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gopal-panigrahi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
