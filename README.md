@@ -87,6 +87,7 @@ Leetcode Practice
 | [0415-add-strings](https://github.com/gopal-panigrahi/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/gopal-panigrahi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0812-rotate-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gopal-panigrahi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2391-strong-password-checker-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/2391-strong-password-checker-ii) |
@@ -255,4 +256,8 @@ Leetcode Practice
 | ------- |
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gopal-panigrahi/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
