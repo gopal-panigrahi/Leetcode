@@ -65,6 +65,7 @@ Leetcode Practice
 | [1319-unique-number-of-occurrences](https://github.com/gopal-panigrahi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/gopal-panigrahi/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/gopal-panigrahi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
