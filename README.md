@@ -173,6 +173,7 @@ Leetcode Practice
 | [0144-binary-tree-preorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gopal-panigrahi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gopal-panigrahi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0797-all-paths-from-source-to-target](https://github.com/gopal-panigrahi/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
@@ -261,10 +262,19 @@ Leetcode Practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopal-panigrahi/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gopal-panigrahi/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/gopal-panigrahi/Leetcode/tree/master/0812-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopal-panigrahi/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopal-panigrahi/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
