@@ -74,6 +74,7 @@ Leetcode Practice
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gopal-panigrahi/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Leetcode Practice
 | [0971-shortest-bridge](https://github.com/gopal-panigrahi/Leetcode/tree/master/0971-shortest-bridge) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/gopal-panigrahi/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gopal-panigrahi/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
 | ------- |
@@ -277,4 +279,5 @@ Leetcode Practice
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/gopal-panigrahi/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gopal-panigrahi/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
