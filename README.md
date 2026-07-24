@@ -34,6 +34,7 @@ Leetcode Practice
 | [2413-smallest-number-in-infinite-set](https://github.com/gopal-panigrahi/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/gopal-panigrahi/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3668-restore-finishing-order](https://github.com/gopal-panigrahi/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Leetcode Practice
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/gopal-panigrahi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gopal-panigrahi/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/gopal-panigrahi/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
