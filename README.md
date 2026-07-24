@@ -74,6 +74,7 @@ Leetcode Practice
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/gopal-panigrahi/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gopal-panigrahi/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
@@ -194,6 +195,7 @@ Leetcode Practice
 | [0670-maximum-swap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0670-maximum-swap) |
 | [0866-rectangle-overlap](https://github.com/gopal-panigrahi/Leetcode/tree/master/0866-rectangle-overlap) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
