@@ -1,15 +1,13 @@
 public class Solution {
     public string MapWordWeights(string[] words, int[] weights) {
-        string s = "";
-        string d = "zyxwvutsrqponmlkjihgfedcba";
+        var result = new StringBuilder();
         foreach(var word in words) {
-            int sweight = 0;
+            int total_weight = 0;
             for(int i = 0; i < word.Length; i++) {
-                int pos = (int)word[i] % 96;
-                sweight += weights[pos - 1];
+                total_weight += weights[word[i] - 'a'];
             }
-            s += d[sweight%26];
+            result.Append((char)('z' - (total_weight%26)));
         }
-        return s;
+        return result.ToString();
     }
 }
