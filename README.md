@@ -77,6 +77,7 @@ Leetcode Practice
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gopal-panigrahi/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/gopal-panigrahi/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/gopal-panigrahi/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gopal-panigrahi/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/gopal-panigrahi/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
@@ -103,6 +104,7 @@ Leetcode Practice
 | [2391-strong-password-checker-ii](https://github.com/gopal-panigrahi/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gopal-panigrahi/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3019-furthest-point-from-origin](https://github.com/gopal-panigrahi/Leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3838-weighted-word-mapping](https://github.com/gopal-panigrahi/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Leetcode Practice
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gopal-panigrahi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/gopal-panigrahi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gopal-panigrahi/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/gopal-panigrahi/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/gopal-panigrahi/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search Tree
 |  |
